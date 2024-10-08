@@ -17,6 +17,7 @@ Duration: 100 Hours (4 to 5 Months)
 
 
 Technology Stack
+
 Python
 Data Structures
 NumPy
